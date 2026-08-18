@@ -57,14 +57,14 @@ Bookmarked allows users to:
 The main interface combines the current library with forms for adding and
 updating books.
 
-![Bookmarked main interface](assets/screenshots/Frontend-MainPage.jpg)
+![Bookmarked main interface](assets/Frontend-MainPage.jpg)
 
 ### Book Details
 
 Users can expand individual books to view additional information such as read
 status, current-reading status, pre-order status, and series information.
 
-![Expanded book details](assets/screenshots/Frontend-BookDetail.jpg)
+![Expanded book details](assets/Frontend-BookDetail.jpg)
 
 ### Adding Books
 
